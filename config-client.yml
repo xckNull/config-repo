@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: config-server # 应用名称
+    name: config-client # 应用名称
 
 # 自定义配置
-name: config-server-default
+name: config-client-default
